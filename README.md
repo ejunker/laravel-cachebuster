@@ -17,7 +17,7 @@ To get the version of cachebuster compatible with your version of laravel, follo
 
 1) Add the following to your **composer.json**
 
-#### For Laravel 5.x
+#### For Laravel 5.x and Laravel 6
 ```bash
 "themonkeys/cachebuster" :"2.*"
 ```
